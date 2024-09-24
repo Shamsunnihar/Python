@@ -1,6 +1,6 @@
-age = 15
+age = 18
 eat_pizza = False
-exercise = True
+exercise = False
 
 if (age < 30):
     if eat_pizza:
@@ -12,5 +12,9 @@ else:
        print('Fit')
     else:
        print('Unfit')
+
+#Ternary operator
+
+print("child" if(age <18) else "adult")
    
    

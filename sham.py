@@ -1,1 +1,2 @@
-print(sham)
+name = "sham"
+print(name)
