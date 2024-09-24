@@ -1,0 +1,16 @@
+#string replication
+'''
+a= "Wow Mom"
+print(a*100)
+
+#string concatenation
+str1 = "Hi Hi Hi"
+str2 = "Welcome  to  the  code "4
+
+print(str1 + str2)
+'''
+#string replication and concatenation
+
+stars =  ("*"*20)
+greeting = "Happy " + "Holidays!"
+print(stars,greeting,stars,sep='\n')
